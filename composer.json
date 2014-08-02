@@ -1,7 +1,7 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
+	"name": "naldope/maintenants",
+	"description": "Maintenants",
+	"keywords": ["laravel","maintenants"],
 	"license": "MIT",
 	"require": {
 		"laravel/framework": "4.1.*"
